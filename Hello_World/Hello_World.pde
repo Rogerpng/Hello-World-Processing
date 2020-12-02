@@ -1,3 +1,4 @@
+/*
 print("Hello World");
 char x = '!';
 println(x);
@@ -22,10 +23,25 @@ println("Assignment Example, as formula:", highest_number+=13); //Returns 2xBake
 println("Memory Variable is",evenHigher); //Returns Baker's Dozen as memory
 println("Arithmetic Example as formula:",highest_number+1); //Returns 1+2xBaker's Dozen
 println("Modulo or Modulus Example:", evenHigher % 14); //Returns Baker's Dozen, as a remainder
-/*
-
-
 */
+
 
 //This is my code. Everything above was just me learning. Under this is where mine starts.
 //
+
+print("Subscribe To Technoblade");
+char x = '!';
+println(x);
+println("Have you considered trying penut butter, it taste pretty good");
+println(x);
+print("ABC");
+String name = "Cheese";
+String phrase = "Very Nice";
+
+print("\n" + name + phrase);
+println( phrase + name);
+int highest_number = 1000;
+long evenHigher = 25;
+println( highest_number + name);
+print(x);
+println( evenHigher + phrase + evenHigher);
